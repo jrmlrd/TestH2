@@ -59,7 +59,7 @@
         <ParentStepID>8</ParentStepID>
         <SortOrder>1</SortOrder>
         <ID>4</ID>
-        <Name>Save Message</Name>
+        <Name>Save Message1</Name>
         <IFCDefinition>6</IFCDefinition>
         <ProcessMode>1</ProcessMode>
         <isTwoPhase>false</isTwoPhase>
@@ -169,7 +169,7 @@
         <ParentStepID>6</ParentStepID>
         <SortOrder>1</SortOrder>
         <ID>8</ID>
-        <Name>Flow Data</Name>
+        <Name>Update ODS</Name>
         <IFCDefinition>12</IFCDefinition>
         <ProcessMode>1</ProcessMode>
         <isTwoPhase>false</isTwoPhase>
