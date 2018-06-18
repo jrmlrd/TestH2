@@ -59,7 +59,7 @@
         <ParentStepID>8</ParentStepID>
         <SortOrder>1</SortOrder>
         <ID>4</ID>
-        <Name>Save Message7</Name>
+        <Name>Save Message8</Name>
         <IFCDefinition>6</IFCDefinition>
         <ProcessMode>1</ProcessMode>
         <isTwoPhase>false</isTwoPhase>
